@@ -1,0 +1,7 @@
+C:\Users\artem\source\repos\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\artem\source\repos\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\artem\source\repos\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\artem\source\repos\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\artem\source\repos\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
